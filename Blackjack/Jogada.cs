@@ -9,6 +9,7 @@ namespace Blackjack
         public int quantidade1 { get; set; }
         public int quantidade2 { get; set; }
         public bool partida { get; set; }
+        public int turnos { get; set; }
 
     }
 }
